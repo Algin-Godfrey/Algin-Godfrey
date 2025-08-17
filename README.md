@@ -1,9 +1,4 @@
-# Hi there 👋, I'm Algin  
-
-## 🚀 About Me
-- 🌱 I’m currently learning **Machine Learning & AI**
-- 💻 Interested in **Full-Stack Development, Cybersecurity, and Compiler Design**
-- 🎯 Goal: Build impactful AI-driven projects
+# Hi there, I'm Algin Godfrey
 
 
 ## 🚀 Tech Stack
