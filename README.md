@@ -3,7 +3,7 @@
 ### aboutMe.Js:
 
 ```javascript
-const Algin Godfrey = {
+const Algin = {
    pronouns: ["he", "him"],
    code: ["Java", "Python", "JavaScript", "C"],
    askMeAbout: ["Software Engineering", "Full-Stack Development", "Cloud Computing"],
