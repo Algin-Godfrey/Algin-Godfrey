@@ -4,7 +4,7 @@
 
 ```javascript
 const Algin Godfrey = {
-   pronouns: "he" | "him",
+   pronouns: ["he", "him"],
    code: ["Java", "Python", "JavaScript", "C"],
    askMeAbout: ["Software Engineering", "Full-Stack Development", "Cloud Computing"],
    technologies: {
