@@ -8,7 +8,7 @@
 
 ## 🚀 Tech Stack
 
-<div align="center">
+<div align="">
 
 <!-- Languages -->
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -27,10 +27,3 @@
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
-
-
-## 📊 GitHub Stats
-![Algin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Algin-Godfrey&show_icons=true&theme=radical)
-
-## 🌐 Connect with Me
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/algin-godfrey-9240a6254/))  
